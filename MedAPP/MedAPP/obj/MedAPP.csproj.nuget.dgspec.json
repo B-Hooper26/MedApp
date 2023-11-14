@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\benho\\OneDrive\\Desktop\\GITHUB\\MedAPP\\MedAPP\\MedAPP.csproj": {}
+    "C:\\Users\\benho\\Source\\Repos\\MedApp\\MedAPP\\MedAPP\\MedAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\benho\\OneDrive\\Desktop\\GITHUB\\MedAPP\\MedAPP\\MedAPP.csproj": {
+    "C:\\Users\\benho\\Source\\Repos\\MedApp\\MedAPP\\MedAPP\\MedAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\benho\\OneDrive\\Desktop\\GITHUB\\MedAPP\\MedAPP\\MedAPP.csproj",
+        "projectUniqueName": "C:\\Users\\benho\\Source\\Repos\\MedApp\\MedAPP\\MedAPP\\MedAPP.csproj",
         "projectName": "MedAPP",
-        "projectPath": "C:\\Users\\benho\\OneDrive\\Desktop\\GITHUB\\MedAPP\\MedAPP\\MedAPP.csproj",
+        "projectPath": "C:\\Users\\benho\\Source\\Repos\\MedApp\\MedAPP\\MedAPP\\MedAPP.csproj",
         "packagesPath": "C:\\Users\\benho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\benho\\OneDrive\\Desktop\\GITHUB\\MedAPP\\MedAPP\\obj\\",
+        "outputPath": "C:\\Users\\benho\\Source\\Repos\\MedApp\\MedAPP\\MedAPP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
